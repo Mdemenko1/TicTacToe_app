@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Mdemenko1/TicTacToe_app/static/css/main.e04a0a15.chunk.css",
-    "main.js": "/Mdemenko1/TicTacToe_app/static/js/main.2a7014e9.chunk.js",
-    "main.js.map": "/Mdemenko1/TicTacToe_app/static/js/main.2a7014e9.chunk.js.map",
-    "runtime-main.js": "/Mdemenko1/TicTacToe_app/static/js/runtime-main.9ebcd186.js",
-    "runtime-main.js.map": "/Mdemenko1/TicTacToe_app/static/js/runtime-main.9ebcd186.js.map",
-    "static/js/2.23514a74.chunk.js": "/Mdemenko1/TicTacToe_app/static/js/2.23514a74.chunk.js",
-    "static/js/2.23514a74.chunk.js.map": "/Mdemenko1/TicTacToe_app/static/js/2.23514a74.chunk.js.map",
-    "index.html": "/Mdemenko1/TicTacToe_app/index.html",
-    "precache-manifest.387ffa97854f18fe3d3e92f13eebfa56.js": "/Mdemenko1/TicTacToe_app/precache-manifest.387ffa97854f18fe3d3e92f13eebfa56.js",
-    "service-worker.js": "/Mdemenko1/TicTacToe_app/service-worker.js",
-    "static/css/main.e04a0a15.chunk.css.map": "/Mdemenko1/TicTacToe_app/static/css/main.e04a0a15.chunk.css.map",
-    "static/js/2.23514a74.chunk.js.LICENSE.txt": "/Mdemenko1/TicTacToe_app/static/js/2.23514a74.chunk.js.LICENSE.txt",
-    "static/media/logo.png": "/Mdemenko1/TicTacToe_app/static/media/logo.9f3d517d.png"
+    "main.css": "/TicTacToe_app/static/css/main.e04a0a15.chunk.css",
+    "main.js": "/TicTacToe_app/static/js/main.2a7014e9.chunk.js",
+    "main.js.map": "/TicTacToe_app/static/js/main.2a7014e9.chunk.js.map",
+    "runtime-main.js": "/TicTacToe_app/static/js/runtime-main.747dccdd.js",
+    "runtime-main.js.map": "/TicTacToe_app/static/js/runtime-main.747dccdd.js.map",
+    "static/js/2.23514a74.chunk.js": "/TicTacToe_app/static/js/2.23514a74.chunk.js",
+    "static/js/2.23514a74.chunk.js.map": "/TicTacToe_app/static/js/2.23514a74.chunk.js.map",
+    "index.html": "/TicTacToe_app/index.html",
+    "precache-manifest.4b0715084f43b4f5ba3b8f16dc034bde.js": "/TicTacToe_app/precache-manifest.4b0715084f43b4f5ba3b8f16dc034bde.js",
+    "service-worker.js": "/TicTacToe_app/service-worker.js",
+    "static/css/main.e04a0a15.chunk.css.map": "/TicTacToe_app/static/css/main.e04a0a15.chunk.css.map",
+    "static/js/2.23514a74.chunk.js.LICENSE.txt": "/TicTacToe_app/static/js/2.23514a74.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/TicTacToe_app/static/media/logo.9f3d517d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9ebcd186.js",
+    "static/js/runtime-main.747dccdd.js",
     "static/js/2.23514a74.chunk.js",
     "static/css/main.e04a0a15.chunk.css",
     "static/js/main.2a7014e9.chunk.js"
